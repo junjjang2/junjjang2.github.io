@@ -1,0 +1,6 @@
+preview 
+$ bundle exec jekyll s
+
+!! Automatically deployed using Github-Action !!
+manual deploy
+$ JEKYLL_ENV=production bundle exec jekyll b
